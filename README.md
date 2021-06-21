@@ -6,27 +6,24 @@
 - 🌱 I’m currently improving my React.js,Mongo,Express,Node(MERN Stack)
 
 - 📫 How to reach me **alexmanjaly22@gmail.com**
-</br>
+
 <h3 align="left">:electric_plug: Connect with me:<br /> _______________________________</h3>
-</br>
 <p align="left">
     <a href="https://twitter.com/alexmanjaly22" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="alexmanjaly" height="30" width="30" /></a>&nbsp;&nbsp;
+            alt="alexmanjaly" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-anto/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/alex-anto/" height="30" width="30"/>
+            alt="https://www.linkedin.com/in/alex-anto/" height="25" width="25"/>
     </a>&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/lx6002" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="lx6002" height="30" width="30" /></a>&nbsp;&nbsp;
+            alt="lx6002" height="25" width="25" /></a>&nbsp;&nbsp;
     <a href="https://fb.com/https://www.facebook.com/alex.manjaly" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/alex.manjaly" height="30" width="30" /></a>
+            alt="https://www.facebook.com/alex.manjaly" height="25" width="25" /></a>
 </p>
-</br>
 <h3 align="left">:rocket: Languages and Tools:<br /> _______________________________</h3>
-</br>
 <p align="left">
     <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
@@ -72,7 +69,6 @@
         target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="30"
             height="30" /> </a>
 </p>
-</br>
 <h3 align="left">&#x1f4c8; GitHub Stats
     <br /> _______________________________
 </h3>
