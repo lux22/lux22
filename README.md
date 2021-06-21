@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Alex Anto</h1>
-<h4 align="left">Meticulous Software Developer with an experience in building and maintaining Responsive web designs and web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate about usability and posses working knowledge in Adobe XD, Node.js, Express.js, Mongodb.</h4>
+<h3 align="left">Meticulous Software Developer with an experience in building and maintaining Responsive web designs and web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate about usability and posses working knowledge in Adobe XD, Node.js, Express.js, Mongodb.</h3>
 
 - 🌱 I’m currently learning **Flutter, D3.js**
 
