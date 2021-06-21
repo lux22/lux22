@@ -11,17 +11,17 @@
 <p align="left">
     <a href="https://twitter.com/alexmanjaly22" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="alexmanjaly" height="25" width="25" /></a>&nbsp;&nbsp;
+            alt="alexmanjaly" height="20" width="20" /></a>&nbsp;&nbsp;
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-anto/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/alex-anto/" height="25" width="25"/>
+            alt="https://www.linkedin.com/in/alex-anto/" height="20" width="20"/>
     </a>&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/lx6002" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="lx6002" height="25" width="25" /></a>&nbsp;&nbsp;
+            alt="lx6002" height="20" width="20" /></a>&nbsp;&nbsp;
     <a href="https://fb.com/https://www.facebook.com/alex.manjaly" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/alex.manjaly" height="25" width="25" /></a>
+            alt="https://www.facebook.com/alex.manjaly" height="20" width="20" /></a>
 </p>
 <h3 align="left">:rocket: Languages and Tools:<br /> _______________________________</h3>
 <p align="left">
