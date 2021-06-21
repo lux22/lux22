@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alex Anto</h1>
 <p align="left"><b>Meticulous Software Developer with an experience in building and maintaining Responsive web designs and
     web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate
-    about usability and posses working knowledge in Adobe XD, Node.js, Express.js, Mongodb.</b></p>
+    about usability and posses working knowledge in Node.js, Express.js, Mongodb.</b></p>
 
 - 🌱 I’m currently improving my React.js,Mongo,Express,Node(MERN Stack)
 
