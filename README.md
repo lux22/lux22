@@ -26,8 +26,7 @@
 </br>
 <h3 align="left">:rocket: Languages and Tools:<br /> _______________________________</h3>
 </br>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="30" height="30" /> </a>
+<p align="left">
     <a href="https://getbootstrap.com" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
             alt="bootstrap" width="30" height="30" /> </a>
