@@ -1,4 +1,3 @@
-<link href="style.css" rel="stylesheet"></link>
 <h1 align="left">Hi 👋, I'm Alex Anto</h1>
 <h3 align="left">Meticulous Software Developer with an experience in building and maintaining Responsive web designs and
     web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate
@@ -86,3 +85,4 @@
         src="https://github-readme-stats.vercel.app/api?username=lux22&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Martin's GitHub Stats" />
 </a>
+</html>
