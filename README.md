@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alex Anto</h1>
 <h3 align="left">Meticulous Software Developer with an experience in building and maintaining Responsive web designs and web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate about usability and posses working knowledge in Adobe XD, Node.js, Express.js, Mongodb.</h3>
 <br/>
-<p align="left"> <a href="https://twitter.com/alexmanjaly22" target="blank"><img src="https://img.shields.io/twitter/follow/alexmanjaly?logo=twitter&style=for-the-badge" alt="alexmanjaly" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, D3.js**
 
@@ -9,7 +8,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alexmanjaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexmanjaly" height="30" width="40" /></a>
+<a href="https://twitter.com/alexmanjaly22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexmanjaly" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-anto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-anto/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lx6002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lx6002" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/alex.manjaly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alex.manjaly" height="30" width="40" /></a>
