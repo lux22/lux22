@@ -3,7 +3,7 @@
     web applications. Proficient in HTML, CSS, JavaScript, React.js plus modern libraries and frameworks. Passionate
     about usability and posses working knowledge in Node.js, Express.js, Mongodb.</b></p>
 
-- 🌱 I’m currently improving my React.js,Mongo,Express,Node(MERN Stack)
+- 🌱 I’m currently improving my React.js,Mongo,Express,Node(MERN Stack) Skills
 
 - 📫 How to reach me **alexmanjaly22@gmail.com**
 
