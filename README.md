@@ -32,9 +32,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
             alt="cplusplus" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://d3js.org/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js"
-            width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://expressjs.com" target="_blank"> <img
+            alt="css3" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://d3js.org/" target="_blank"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" /> </a>&nbsp;&nbsp; <a
@@ -48,14 +46,8 @@
             alt="javascript" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://www.linux.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
             width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://materializecss.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
-            alt="materialize" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://www.mongodb.com/" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="30" height="30" /> </a>&nbsp;&nbsp; <a href="https://nodejs.org" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="30" height="30" /> </a> &nbsp;&nbsp;<a href="https://www.photoshop.com/en" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="30" height="30" /> </a> &nbsp;&nbsp;<a href="https://www.php.net" target="_blank"> <img
+            alt="nodejs" width="30" height="30" /> </a> &nbsp;&nbsp;<a href="https://www.photoshop.com/en" target="_blank"><img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
             width="30" height="30" /> </a> &nbsp;&nbsp;<a href="https://reactjs.org/" target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
